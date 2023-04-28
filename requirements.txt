@@ -1,0 +1,4 @@
+numpy
+pandas
+Flask
+-e . # setup.py will get triggered
